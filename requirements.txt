@@ -1,0 +1,5 @@
+streamlit
+nest_asyncio
+llama_index
+llama_index.embeddings.huggingface
+asyncio
